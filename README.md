@@ -1,4 +1,4 @@
-# MB5370-Module-2-Workshop-2
+# MB5370 Module 2 Workshop 2
 
 Workshop 2: Advanced data wrangling built on the foundational skills from workshop 1 and focussed on reshaping data and merging it with spatial and temporal metadata to extract clearer biological signals from noisy ecological data. The workshop centred on tidy data principles and the tidyverse tools needed to reshape, clean, and join real world datasets.
  
